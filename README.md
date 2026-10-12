@@ -20,7 +20,7 @@ java -cp out observer.Demo
 
 Every pattern has its own `Demo` class with a `main` that prints what happens.
 
-## [Oberserver](./src/obeserver)
+## Oberserver
 Een object die alle subscribers een notificatie stuurt wanneer de state van de observer veranderd. Zonder dat de gesubscribde klassen of de oberserver iets van elkaars implementaties weet.
 
 ### Example (Java) — `src/observer/`
